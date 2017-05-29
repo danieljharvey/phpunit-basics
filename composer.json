@@ -1,0 +1,13 @@
+{
+    "name": "daniel/test-example",
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Daniel Harvey",
+            "email": "danieljamesharvey@gmail.com"
+        }
+    ],
+    "require": {}
+}
